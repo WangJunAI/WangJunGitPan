@@ -41,5 +41,21 @@
     <None Include="外汇低精度直盘黄金2018年03月31日前\USDJPY.zip" />
     <None Include="外汇低精度直盘黄金2018年03月31日前\XAUUSD.zip" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="汪俊云平台资源文件\MP4\342241033.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\560155892.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\563397345.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\563399155.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\563399566.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\627965480.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\674118136.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\674124634.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\722728874.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\722729492.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\722779149.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\722787363.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\748310191.mp4" />
+    <Content Include="汪俊云平台资源文件\MP4\MVI_0358.mp4" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
